@@ -1,2 +1,2 @@
 # voda
-Simple program to get water meter rotation reading using e.g. FC-51 IR-sensor
+Simple program to get water meter rotation reading using e.g. a FC-51 IR-sensor. In my prototype, the sensor is connected to GPIO's of a RaspberryPi, and mounted over the water meter so that rotation of the meter's needle triggers the IR proximity sensor. More details should probably be added...
